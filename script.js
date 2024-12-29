@@ -1,7 +1,11 @@
 
 
 
-const names= ['Ayushman', 'Tanishka', 'Sahil', 'Lokesh', 'Raman', 'Sumit', 'CC-Club', 'Vatsal', 'GDG', 'Aryan Anand'];
+
+
+
+const names= ['Ayushman', 'Tanishka', 'Sahil', 'Lokesh', 'Raman', 'Sumit', 'CC-Club', 'Vatsal', 'SumiRann1', 'Aryan Anand', 'Shivani'];
+
 
 
 const displayNames= ()=>{
