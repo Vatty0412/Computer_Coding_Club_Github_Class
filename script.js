@@ -1,4 +1,13 @@
-const names= ['Ayushman', 'Tanishka', 'Sahil', 'Lokesh', 'Raman', 'Sumit', 'CC-Club', 'Vatsal', 'Shivani'];
+
+
+
+
+
+
+const names= ['Ayushman', 'Tanishka', 'Sahil', 'Lokesh', 'Raman', 'Sumit', 'CC-Club', 'Vatsal', 'SumiRann1', 'Aryan Anand', 'Shivani'];
+
+
+
 const displayNames= ()=>{
     const namesList= document.getElementById('names-list');
     namesList.innerHTML='';
@@ -11,3 +20,7 @@ const displayNames= ()=>{
 };
 
 displayNames();
+
+
+
+
