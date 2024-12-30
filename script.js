@@ -4,7 +4,7 @@
 
 
 
-const names= ['Ayushman', 'Tanishka', 'Sahil', 'Lokesh', 'Raman', 'Sumit', 'CC-Club', 'Vatsal',"Atiksh" 'SumiRann1', 'Aryan Anand', 'Shivani'];
+const names= ['Ayushman', 'Tanishka', 'Sahil', 'Lokesh', 'Raman', 'Sumit', 'CC-Club', 'Vatsal',"ATIKSH" ,'SumiRann1', 'Aryan Anand', 'Shivani'];
 
 
 
